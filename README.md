@@ -1,4 +1,4 @@
-## House Reapir
+## House Repair
 
 You can use the [editor on GitHub](https://github.com/lizandrof273/house_fixes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
